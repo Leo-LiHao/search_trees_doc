@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["avltree","AVL tree"],["base","An automatically-implemented extension trait for nodes and trees"],["bstree","Binary search tree"],["prelude","Convenience re-export of common members"],["rbtree","Red-black tree"]]});

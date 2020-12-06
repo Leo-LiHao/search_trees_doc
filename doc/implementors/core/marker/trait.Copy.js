@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["search_trees"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/nightly/core/marker/trait.Copy.html\" title=\"trait core::marker::Copy\">Copy</a> for <a class=\"enum\" href=\"search_trees/rbtree/enum.NodeColor.html\" title=\"enum search_trees::rbtree::NodeColor\">NodeColor</a>","synthetic":false,"types":["search_trees::rbtree::NodeColor"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
